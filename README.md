@@ -52,7 +52,7 @@ Este projeto é um desafio FullStack que consiste em clonar páginas e APIs de u
 
 ## Como Executar o Projeto
 
-Backend
+### Backend
 
 Clone o repositório:
 
@@ -84,7 +84,7 @@ Inicie o servidor:
 npm start
 ```
 
-Frontend
+### Frontend
 
 Acesse a pasta do frontend:
 
