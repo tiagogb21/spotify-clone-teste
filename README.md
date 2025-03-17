@@ -6,49 +6,49 @@ Este projeto é um desafio FullStack que consiste em clonar páginas e APIs de u
 
 ## Tecnologias Utilizadas
 
--   Backend
+Backend:
 
-*   Node.js
+-   Node.js
 
-*   Express.js
+-   Express.js
 
-*   PostgreSQL (via Sequelize)
+-   PostgreSQL (via Sequelize)
 
-*   Autenticação com JWT
+-   Autenticação com JWT
 
-*   Testes com Jest
+-   Testes com Jest
 
-*   Documentação da API com Swagger
+-   Documentação da API com Swagger
 
--   Frontend
+Frontend:
 
-*   Next.js
+-   Next.js
 
-*   Axios para consumo da API
+-   Axios para consumo da API
 
-*   Styled Components/TailwindCSS para estilização
+-   Styled Components/TailwindCSS para estilização
 
-*   Responsividade
+-   Responsividade
 
-*   Componentização
+-   Componentização
 
-*   Testes com Jest
+-   Testes com Jest
 
-*   Storybook para documentação de componentes
+-   Storybook para documentação de componentes
 
--   Funcionalidades Implementadas
+*   Funcionalidades Implementadas
 
-*   CRUD de recursos escolhidos para a API
+-   CRUD de recursos escolhidos para a API
 
-*   Login e autenticação JWT
+-   Login e autenticação JWT
 
-*   Integração frontend e backend
+-   Integração frontend e backend
 
-*   Responsividade e usabilidade aprimoradas
+-   Responsividade e usabilidade aprimoradas
 
-*   Testes unitários e de integração
+-   Testes unitários e de integração
 
-*   Documentação de API e componentes
+-   Documentação de API e componentes
 
 Como Executar o Projeto
 
