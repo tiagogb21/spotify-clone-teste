@@ -6,7 +6,7 @@ Este projeto é um desafio FullStack que consiste em clonar páginas e APIs de u
 
 ## Tecnologias Utilizadas
 
-Backend:
+### Backend:
 
 -   Node.js
 
@@ -20,7 +20,7 @@ Backend:
 
 -   Documentação da API com Swagger
 
-Frontend:
+### Frontend:
 
 -   Next.js
 
