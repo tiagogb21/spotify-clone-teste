@@ -50,7 +50,7 @@ Este projeto é um desafio FullStack que consiste em clonar páginas e APIs de u
 
 -   Documentação de API e componentes
 
-Como Executar o Projeto
+## Como Executar o Projeto
 
 Backend
 
