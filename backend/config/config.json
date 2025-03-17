@@ -1,0 +1,14 @@
+{
+  "development": {
+    "url": "postgresql://docker:docker@localhost:5433/spotify_clone?schema=public",
+    "dialect": "postgres"
+  },
+  "test": {
+    "url": "postgresql://docker:docker@localhost:5433/spotify_clone?schema=public",
+    "dialect": "postgres"
+  },
+  "production": {
+    "url": "postgresql://root:password@localhost:5432/database_production",
+    "dialect": "postgres"
+  }
+}
